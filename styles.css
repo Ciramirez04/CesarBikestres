@@ -1,0 +1,33 @@
+
+
+
+h1 {
+    color: rgb(243, 238, 238);
+    font-size: 6em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: absolute
+    top: 50px;
+    :left:50px;
+}
+
+  body{
+background-color: rgb(55, 151, 230);
+
+background-image: url(Bicicleta.png);
+border-image: 30rem;
+background-position: left 3rem;
+background-repeat: no-repeat;
+background-size: 20%;
+
+
+border: 30px solid transparent;
+-moz-border-image:url("Bicicleta.png") 30 30 repeat; /* Old firefox */
+
+
+}
+
+
+
+
+
